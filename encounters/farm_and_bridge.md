@@ -26,10 +26,10 @@ GENERAL INFORMATION:
     Alignment:       Normal - Neutral
 
 BASIC STATS:
-    Max Hit Points:  5
+    Max Hit Points:  10
     Armor Class:     10
     Attack Bonus:    1
-    Primary Stat:    Intelligence
+    Primary Stat:    Dexterity
 
 ABILITY SCORES:
     Strength:        12 ( 1 )
