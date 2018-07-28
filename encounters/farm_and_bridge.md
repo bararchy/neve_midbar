@@ -21,9 +21,9 @@ GENERAL INFORMATION:
 
     Height:          5 ' 1 "
     Weight:          140 lbs.
-    Age:             99 years old
+    Age:             65 years old
     Gender:          Male
-    Alignment:       Lawful - Neutral
+    Alignment:       Normal - Neutral
 
 BASIC STATS:
     Max Hit Points:  5
@@ -32,20 +32,20 @@ BASIC STATS:
     Primary Stat:    Intelligence
 
 ABILITY SCORES:
-    Strength:        11 ( 0 )
-    Dexterity:       11 ( 0 )
+    Strength:        12 ( 1 )
+    Dexterity:       14 ( 2 )
     Constitution:    12 ( 1 )
-    Intelligence:    9 ( -1 )
-    Wisdom:          13 ( 1 )
-    Charisma:        13 ( 1 )
+    Intelligence:    12 ( 1 )
+    Wisdom:          10 ( 0 )
+    Charisma:        10 ( 0 )
 
 SAVING THROWS:
-    Strength:     0
-    Dexterity:    0
+    Strength:     1
+    Dexterity:    2
     Constitution  1
-    Intelligence  -1
-    Wisdom:       1
-    Charisma:     1
+    Intelligence  1
+    Wisdom:       0
+    Charisma:     0
 
 SKILLS:
     Athletics (STR):       0
