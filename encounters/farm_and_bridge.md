@@ -10,6 +10,8 @@ Farmer's Son - David
 
 ### Events    
 * Father delitely will ask the group to "make an example" of the blasphemous farmer, he will give them the option to take the "ransom" as reward.  
+* If the players go and checkout the bridge, the barrels are "dummies" with Apple cider  
+
 
 ### Charcters  
 
