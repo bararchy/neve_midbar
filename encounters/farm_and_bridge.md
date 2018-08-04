@@ -69,3 +69,66 @@ SKILLS:
     Performance (CHA)      1
     Persuasion (CHA)       1
 ```
+
+#### Sub-Quest  
+
+On the way to the farm the group encounters a wierd looking bush, the plants are artifical in close look and are made of wood and paint.  
+If the group does not destroy them then an ambush occurs if the group returns a second time to the farmer with the gold requested.  
+
+#### Attackers  
+
+2 Thugs:  
+```
+GENERAL INFORMATION:
+    Race:            Human
+    Class:           Thug
+
+    Height:          5 ' 7 "
+    Weight:          154 lbs.
+    Age:             35 years old
+    Gender:          Male
+    Alignment:       Chaotic - Good
+
+BASIC STATS:
+    Max Hit Points:  2
+    Armor Class:     12
+    Attack Bonus:    2
+    Primary Stat:    Intelligence
+
+ABILITY SCORES:
+    Strength:        13 ( 1 )
+    Dexterity:       14 ( 2 )
+    Constitution:    8 ( -1 )
+    Intelligence:    10 ( 0 )
+    Wisdom:          12 ( 1 )
+    Charisma:        11 ( 0 )
+
+SAVING THROWS:
+    Strength:     1
+    Dexterity:    2
+    Constitution  -1
+    Intelligence  0
+    Wisdom:       1
+    Charisma:     0
+
+SKILLS:
+    Athletics (STR):       1
+    Acrobatics (DEX)       2
+    Sleight of Hand (DEX)  2
+    Stealth (DEX)          2
+    Arcana (INT)           2
+    History (INT)          0
+    Investigation (INT)    0
+    Nature (INT)           0
+    Religion (INT)         0
+    Animal Handling (WIS)  1
+    Insight (WIS)          1
+    Medicine (WIS)         1
+    Perception (WIS)       1
+    Survival (WIS)         1
+    Deception (CHA)        0
+    Intimidation (CHA)     0
+    Performance (CHA)      0
+    Persuasion (CHA)       0
+
+```
