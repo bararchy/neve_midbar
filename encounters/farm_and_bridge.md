@@ -89,6 +89,17 @@ GENERAL INFORMATION:
     Gender:          Male
     Alignment:       Chaotic - Good
 
+WEAPONS:  
+Shortsword
+Melee Weapon (Martial, Sword)
+
+    Category: Items
+    Damage: 1d6
+    Damage Type: Piercing
+    Item Rarity: Standard
+    Properties: Finesse, Light
+    Weight: 2
+
 BASIC STATS:
     Max Hit Points:  2
     Armor Class:     12
