@@ -7,13 +7,17 @@ In this weakened state enemies from within and without tore at the kingdom, the 
 The curch of Heradic decided to take matter into their own hands and slowly took control of the kingdom and given the people a single goal for unification, the "endless sword", an artifact so powerful which is said to allow it's wielder to conquer whole lands and command armies.  
 And so, with renewed vigor and high spirits the adventurers of Achoria sign-up by the hundreds to join the massive army of the curch and begin the crusade to the once "holy land" of the old gods to find the most powerful artifact ever created.  
 
+## End Plot  
+Nadia, Norman and Herold have researched Techions, particles moving back in time, they embedded a sword with those particles, but, the expirement have gone out of control.  
+The sword have gone both back in time and forward in time, closing a repeating time loop which starts at the begging of the universe and the end of it, they are now bond to the sword, living with it, and they cannot die and time will forever repeat unless the sword is broken.  
+
 
 ## Pantheon   
 
 ### New Gods
-* Nerull - God of death, bane of the living.  
-* Nuada - Goddess of war and warriors 
-* Heradic - God of Order and law
+* Nerull (Norman) - God of death, bane of the living.  
+* Nuada (Nadia) - Goddess of war and warriors 
+* Heradic (Herold) - God of Order and law
 
 ### Old gods
 * Tchiy’a  - Goddess of life
